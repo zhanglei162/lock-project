@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jd.jrdp:exts-common-api:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jrdp/exts-common-api/1.0-SNAPSHOT/exts-common-api-1.0-20160222.082530-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jrdp/exts-common-api/1.0-SNAPSHOT/exts-common-api-1.0-20160222.082530-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jd/jrdp/exts-common-api/1.0-SNAPSHOT/exts-common-api-1.0-20160222.082530-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
